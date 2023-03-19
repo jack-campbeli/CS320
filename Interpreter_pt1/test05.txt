@@ -1,0 +1,20 @@
+Push 1
+Push 2
+Push 3
+Push 4
+Push 5
+Add 4
+Mul 2
+Push 6
+Push 198
+Div 3
+Push 8
+Push 3
+Trace 1
+Push 4
+Pop 2
+Push 5
+Push 9
+Sub 3
+Trace 1
+

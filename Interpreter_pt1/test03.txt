@@ -1,0 +1,15 @@
+Push ()
+Push False
+Push 5 
+Push 8 
+Push 20
+Pop 2
+Pop 1
+Trace 2
+Push 10
+Push True
+Pop 3
+Push ()
+Push ()
+Trace 2
+Trace 2
